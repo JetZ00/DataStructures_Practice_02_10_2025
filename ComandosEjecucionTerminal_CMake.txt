@@ -1,0 +1,4 @@
+gcc Main.c Scheduler.c Task.c -Wall -Wextra -Wpedantic
+
+por ej:
+PS C:\Users\manue\Desktop\Data Structure (2025-26, Grupo A)\C\Todo C\Ejercicios\Practica_02_10\src> gcc Main.c Scheduler.c Task.c -Wall -Wextra -Wpedantic
