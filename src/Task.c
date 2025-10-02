@@ -27,8 +27,8 @@ if (t == NULL) return NULL; // malloc ha fallado
 t->id = id;                    // Inicializacion de los campos
 t->quantum = quantum;
 
-memcpy(t->name, name, len); // Copia del nombre
-t->name[len] = '\0'; // Aseguramos el terminador nulo
+memcpy(t->name, name, len);   // Copia del nombre
+t->name[len] = '\0';          // Aseguramos el terminador nulo
 
 return t;
 }
@@ -39,9 +39,9 @@ void Task_free(struct Task** p_p_task) {
   
 if (p_p_task == NULL || *p_p_task == NULL) return;
 
-free(*p_p_task);   // Liberacion de la memoria reservada para la estructura Task (Valor)
+free(*p_p_task);            // Liberacion de la memoria reservada para la estructura Task (Valor)
 
-*p_p_task = NULL; // Liberacion de la memoria reservada para la estructura Task (Dirección)
+*p_p_task = NULL;           // Liberacion de la memoria reservada para la estructura Task (Dirección)
 //¿Y se podria poner directamente el p_task = NULL?
 }
 
