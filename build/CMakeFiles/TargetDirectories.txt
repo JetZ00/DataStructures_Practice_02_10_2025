@@ -1,0 +1,3 @@
+C:/Users/manue/Desktop/Data Structure (2025-26, Grupo A)/C/Todo C/Ejercicios/Practica_02_10/build/CMakeFiles/data_structures_c.dir
+C:/Users/manue/Desktop/Data Structure (2025-26, Grupo A)/C/Todo C/Ejercicios/Practica_02_10/build/CMakeFiles/edit_cache.dir
+C:/Users/manue/Desktop/Data Structure (2025-26, Grupo A)/C/Todo C/Ejercicios/Practica_02_10/build/CMakeFiles/rebuild_cache.dir

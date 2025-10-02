@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/manue/Desktop/Data Structure (2025-26, Grupo A)/C/Todo C/Ejercicios/Practica_02_10/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/data_structures_c.dir/includes_C.rsp -g -std=gnu17 -Wall -Wextra -Wpedantic -o CMakeFiles\\data_structures_c.dir\\src\\Main.c.obj -c \"C:\\Users\\manue\\Desktop\\Data Structure (2025-26, Grupo A)\\C\\Todo C\\Ejercicios\\Practica_02_10\\src\\Main.c\"",
+  "file": "C:/Users/manue/Desktop/Data Structure (2025-26, Grupo A)/C/Todo C/Ejercicios/Practica_02_10/src/Main.c",
+  "output": "CMakeFiles/data_structures_c.dir/src/Main.c.obj"
+},
+{
+  "directory": "C:/Users/manue/Desktop/Data Structure (2025-26, Grupo A)/C/Todo C/Ejercicios/Practica_02_10/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/data_structures_c.dir/includes_C.rsp -g -std=gnu17 -Wall -Wextra -Wpedantic -o CMakeFiles\\data_structures_c.dir\\src\\Scheduler.c.obj -c \"C:\\Users\\manue\\Desktop\\Data Structure (2025-26, Grupo A)\\C\\Todo C\\Ejercicios\\Practica_02_10\\src\\Scheduler.c\"",
+  "file": "C:/Users/manue/Desktop/Data Structure (2025-26, Grupo A)/C/Todo C/Ejercicios/Practica_02_10/src/Scheduler.c",
+  "output": "CMakeFiles/data_structures_c.dir/src/Scheduler.c.obj"
+},
+{
+  "directory": "C:/Users/manue/Desktop/Data Structure (2025-26, Grupo A)/C/Todo C/Ejercicios/Practica_02_10/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/data_structures_c.dir/includes_C.rsp -g -std=gnu17 -Wall -Wextra -Wpedantic -o CMakeFiles\\data_structures_c.dir\\src\\Task.c.obj -c \"C:\\Users\\manue\\Desktop\\Data Structure (2025-26, Grupo A)\\C\\Todo C\\Ejercicios\\Practica_02_10\\src\\Task.c\"",
+  "file": "C:/Users/manue/Desktop/Data Structure (2025-26, Grupo A)/C/Todo C/Ejercicios/Practica_02_10/src/Task.c",
+  "output": "CMakeFiles/data_structures_c.dir/src/Task.c.obj"
+}
+]
